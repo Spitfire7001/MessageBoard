@@ -16,4 +16,4 @@ The server.java file will automatically create a socket on port 1234.
 If this port is already being used please change the number on line 26 of the server.java file. 
 As well as change the port you are connecting to in the client.java file by changing the number on line 10. 
 When using the commands in the client side, type the command and then the argument in seperate lines
-ex: "/join" "enter" "<msgBoardName>"
+ex: "/join" "enter" "MsgBoardName"
