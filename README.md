@@ -2,8 +2,8 @@
 Distributed Systems Assignment #1
 ---
 Introduction:
-The two java files "Server.java" and "Client.java" work together to form a message board service.
----
+The two java files "Server.java" and "Client.java" work together to form a message board service where users can create their own message boards and chat to other users on the same message boards in real time.
+
 Instructions:
 Extract zip files to a know location on your computer. To run the application use the following commands in your terminal where the files are stored:
 1. javac server.java
