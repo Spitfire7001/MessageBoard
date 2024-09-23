@@ -1,7 +1,7 @@
 # Message Board
-Distributed Systems Assignment #1
 ---
 
+Distributed Systems Assignment #1
 Introduction:
 ---
 The two java files "Server.java" and "Client.java" work together to form a message board service where users can create their own message boards and chat to other users on the same message boards in real time.
