@@ -1,0 +1,5 @@
+This is the begining of the Message Board!
+[2024-09-23 14:42] testUser1: Hello Chat1
+[2024-09-23 14:44] testUser2: hello chat2!
+[2024-09-23 14:45] testUser1: hello testUser2!
+[2024-09-23 14:47] testUser1: testUser2 has left and cannot see this message until they reconnect :(
