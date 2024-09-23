@@ -12,7 +12,6 @@ Extract zip files to a know location on your computer. To run the application us
 4. java client.java
 
 Notes:
-The server.java file will automatically create a sockeet on port 1234
-If this port is already being used please change the number on line 26 of the server.java file
-As well as change the port you are connecting to in the client.java file by changing the number on
-line 10
+The server.java file will automatically create a sockeet on port 1234. 
+If this port is already being used please change the number on line 26 of the server.java file. 
+As well as change the port you are connecting to in the client.java file by changing the number on line 10. 
